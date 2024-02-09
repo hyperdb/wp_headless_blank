@@ -1,6 +1,9 @@
 <?php
 /**
- * 
+ * functions.php
+ * ---------------------------------------------------------------------
+ * Copyright (c) 2024 Koichi Hoshi (hyperdb)
+ * This software is released under the MIT License, see LICENSE.
  */
 if(!function_exists('custom_auto_post_slug'))
 {

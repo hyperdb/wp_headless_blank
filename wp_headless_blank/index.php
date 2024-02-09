@@ -1,6 +1,9 @@
 <?php
 /**
  * wp_headless_blank
+ * ---------------------------------------------------------------------
+ * Copyright (c) 2024 Koichi Hoshi (hyperdb)
+ * This software is released under the MIT License, see LICENSE.
  */
 ?>
 <!DOCTYPE html>
